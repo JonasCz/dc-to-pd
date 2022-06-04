@@ -15,16 +15,17 @@ The goal is that I can charge my laptop off an ebike battery directly, or any ot
 
 **Features:**
 
-* Done in Kicad 6
-* Single-sided board for easy assembly
+* Done in Kicad 6.
+* Single-sided board for easy assembly.
 * The single-sidedness means that it may be possible in a future revision to replace the remaining THT parts with SMD, and then attach a heatsink or enclosure to the back, for through-the-board cooling.
-* As compact as possible
+* As compact as possible.
 * Input protection:
-     * Reverse-polarity protection provided by two high-side n-channel mosfets back-to-back, driven by HT0440
+     * Reverse-polarity protection provided by two high-side n-channel mosfets back-to-back, driven by HT0440.
      * Inrush current limiting provided by same mosfets, by slowing the switch-on speed significantly.
      * Fuse
      * both of these work well, I will reuse this in other designs.
 * Low standby / idle power consumption: the buck-boost converter is disabled when no device (power consumer) connected.
+* Adjustable low-voltage cutout.
 * Datasheet implementations for TPS25740B and LM5118 are mostly folowed, only the input protection, 5v supply, and power-saving stuff has some clever stuff.
 * XT60 power connectors.
 * Status indicator LED.
