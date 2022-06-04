@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TPS25740B")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS25740BRGER/KiCad")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/libraries/NCP781BMN050TAG/KiCad")(options "")(descr ""))
+)

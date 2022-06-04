@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP781BMN050TAG
+D Linear Voltage Regulator, 150 V, 100 mA
+K
+F http://www.onsemi.com/pub/Collateral/NCP781-D.PDF
+$ENDCMP
+#
+#End Doc Library

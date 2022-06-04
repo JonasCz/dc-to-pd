@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "TPS25740BRGER")(type "Legacy")(uri "${KIPRJMOD}/libraries/TPS25740BRGER/KiCad/TPS25740BRGER.lib")(options "")(descr ""))
+  (lib (name "MIC5019YFT_TR")(type "Legacy")(uri "${KIPRJMOD}/libraries/MIC5019YFT_TR/KiCad/MIC5019YFT_TR.lib")(options "")(descr ""))
+  (lib (name "SLG55021-200010V")(type "Legacy")(uri "${KIPRJMOD}/libraries/SLG55021-200010V/KiCad/SLG55021-200010V.lib")(options "")(descr ""))
+  (lib (name "HT0440LG-G")(type "Legacy")(uri "${KIPRJMOD}/libraries/HT0440LG-G/KiCad/HT0440LG-G.lib")(options "")(descr ""))
+  (lib (name "NCP781BMN050TAG")(type "Legacy")(uri "${KIPRJMOD}/libraries/NCP781BMN050TAG/KiCad/NCP781BMN050TAG.lib")(options "")(descr ""))
+)

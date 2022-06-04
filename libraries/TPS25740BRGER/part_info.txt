@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS25740BRGER
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=2.1
+Released=2018-03-04 08:36:09
+Downloaded=2021-07-15 21:32:17
+3D=Y

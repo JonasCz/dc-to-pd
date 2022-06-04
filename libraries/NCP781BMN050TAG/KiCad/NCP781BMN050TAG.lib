@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NCP781BMN050TAG
+#/1049612/329528/2.49/7/4/Integrated Circuit
+DEF NCP781BMN050TAG IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "NCP781BMN050TAG" 1050 200 50 H V L CNN
+F2 "NCP781BMN050TAG" 1050 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/NCP781-D.PDF" 1050 0 50 H I L CNN
+F4 "Linear Voltage Regulator, 150 V, 100 mA" 1050 -100 50 H I L CNN "Description"
+F5 "0.9" 1050 -200 50 H I L CNN "Height"
+F6 "ON Semiconductor" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NCP781BMN050TAG" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-NCP781BMN050TAG" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NCP781BMN050TAG?qs=xhbEVWpZdWdIwQYX0sim8g%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "NCP781BMN050TAG" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ncp781bmn050tag/on-semiconductor?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X IN 1 0 0 200 R 50 50 0 0 P
+X EN 2 0 -100 200 R 50 50 0 0 P
+X NC 3 0 -200 200 R 50 50 0 0 N
+X GND 4 0 -300 200 R 50 50 0 0 P
+X OUT 5 1200 0 200 L 50 50 0 0 P
+X ADJ/SEN 6 1200 -100 200 L 50 50 0 0 P
+X EP 7 1200 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

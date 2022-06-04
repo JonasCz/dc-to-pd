@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS25740BRGER
+D USB Type-C and USB PD Source Controller
+K
+F http://www.ti.com/lit/gpn/tps25740b
+$ENDCMP
+#
+#End Doc Library
