@@ -1,4 +1,4 @@
-# 10 - 60v 60w DC to USB-C PD buck-boost converter module using TPS25740B and LM5118
+# 10 - 60v input 60w DC to USB-C PD buck-boost converter module using TPS25740B and LM5118
 
 **Status:** 
 
