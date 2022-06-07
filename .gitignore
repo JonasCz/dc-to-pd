@@ -25,3 +25,4 @@ fp-info-cache
 *.xml
 *.csv
 dc-to-pd-2-backups/** 
+.DS_Store
